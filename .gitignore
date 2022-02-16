@@ -1,0 +1,12 @@
+# npm
+node_modules
+
+# misc
+.DS_Store
+
+# output
+dist
+.umi
+
+# editor
+.idea
